@@ -1,10 +1,10 @@
 # First-w-License
 Part of Open Source course
 
-*Title*
+# Title #
 This is the readme for my second repo.  It does nto really do anythign but help me better understand hwo to use GitHub
 
-**sub titme**
+## subtitle ##
 Just to show I can
 
 - [ ] Item one
