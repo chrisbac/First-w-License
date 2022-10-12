@@ -13,9 +13,9 @@ Just to show I can
   
   _I had never tried to make a table..._
   
-  One|Two|Three
-  |*--|--*|*--*|
-  The contnet goes in here|But I do not knwo where| Always stay centered
-  in more that one line|adjusted to t he right|Tao is the way
+  One | Two | Three
+  | :--- | ---: | :---: 
+  The contnet goes in here | But I do not knwo where | Always stay centered
+  in more that one line | adjusted to t he right | Tao is the way
   
   FInished
